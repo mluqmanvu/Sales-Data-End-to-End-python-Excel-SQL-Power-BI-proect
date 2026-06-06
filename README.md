@@ -65,6 +65,7 @@ Sales-Analytics-Project/
 │
 ├── README.md
 └── requirements.txt
+Link to the screenshot of Dashboard : https://github.com/mluqmanvu/Sales-Data-End-to-End-python-Excel-SQL-Power-BI-proect/blob/main/End%20to%20End%20pipline%20excel-python-sql-powerbi%20dashboard.png
 
 **Author
 Muhammad Luqman**
